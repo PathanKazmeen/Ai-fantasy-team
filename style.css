@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+    background: #fff;
+    margin-top: 60px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #1e88e5;
+  }
+  
+  .input-area {
+    margin: 20px 0;
+  }
+  
+  button {
+    background-color: #1e88e5;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1565c0;
+  }
+  
+  .team-output {
+    margin-top: 30px;
+    text-align: left;
+  }
+  
